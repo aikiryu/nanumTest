@@ -23,6 +23,7 @@ header{
 }
 header h1{
     padding-top: 50px;
+    color: blue;
 }
 header .gnb{
     display: flex;
