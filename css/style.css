@@ -12,6 +12,7 @@ a{
     color: inherit;
 }
 
+<<<<<<< HEAD
 
 .con1, .con2{
     width: 1200px;
@@ -31,4 +32,10 @@ a{
     width: 200px;
     height: 200px;
     background-color: cyan;
+=======
+footer{
+    background-color: aqua;
+    width: 100vw;
+    height: 150px;
+>>>>>>> origin/yaho1234
 }
