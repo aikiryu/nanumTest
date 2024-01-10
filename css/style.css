@@ -11,3 +11,24 @@ a{
     text-decoration: none;
     color: inherit;
 }
+
+
+.con1, .con2{
+    width: 1200px;
+    margin:40px auto;
+
+    justify-content: space-between;
+    display: flex;
+}
+
+.con1 .box{
+    width: 250px;
+    height: 250px;
+    background-color: darkviolet;
+}
+
+.con2 .item{
+    width: 200px;
+    height: 200px;
+    background-color: cyan;
+}
